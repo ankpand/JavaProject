@@ -21,6 +21,7 @@ public class wrapperr {
 			//System.out.println(s.trim());
 			System.out.println(s.getClass());
 			System.out.println(s.strip());
+			System.out.println("Github integration concept");
 	}
 
 }
